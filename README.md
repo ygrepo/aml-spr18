@@ -1,1 +1,1 @@
-# AML-SPR18: Domain Adaption Write Up
+# NYU Advanced Machine Learning Course: Domain Adaption Report
